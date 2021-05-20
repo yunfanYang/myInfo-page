@@ -1,2 +1,2 @@
-# yunfanYang.github.io
+# myInfoPage
 个人主页
